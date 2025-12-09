@@ -132,4 +132,4 @@ Support
 ----------------------------------------
 For help, updates, or bug reports, visit:
 
-https://discord.gg/RX7yEpK5ZN
+https://discord.gg/GgCGjwmaDd
