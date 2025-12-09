@@ -132,8 +132,4 @@ Support
 ----------------------------------------
 For help, updates, or bug reports, visit:
 
-WZ Image Flattener:
-    https://github.com/Souliolii/WZ-Image-Flattener
-
-WZ Icon Viewer:
-    https://github.com/Souliolii/WZ-Image-Viewer
+https://discord.gg/RX7yEpK5ZN
